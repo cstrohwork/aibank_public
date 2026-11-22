@@ -1,7 +1,12 @@
 {
   "custom_domain_included": false,
-  "file_count": 164047,
+  "file_count": 164048,
   "files": [
+    {
+      "bytes": 0,
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
     {
       "bytes": 2436,
       "path": "CapitalSignal/atlas/atlas-core.js",
