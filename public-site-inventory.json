@@ -113,9 +113,9 @@
       "sha256": "d8e3e5a42c9250493df72c27987fa05dc4dec4b673bf1f83ccb8444b188f8ce1"
     },
     {
-      "bytes": 14068,
+      "bytes": 14430,
       "path": "CapitalSignal/daily/index.html",
-      "sha256": "e13c90db620584b51499d51836222af68af43e461674d43accb61c9e2da2b999"
+      "sha256": "4f77cb1107b22592fe1e393fa8b5c5c69cf0338d664f75230c4b9070b4ee581b"
     },
     {
       "bytes": 16145,
@@ -820256,5 +820256,5 @@
   "portable_root_references_rewritten": 47629,
   "raw_sec_archives_included": false,
   "schema_version": 1,
-  "total_bytes": 2367684568
+  "total_bytes": 2367684930
 }
